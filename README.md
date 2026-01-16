@@ -1,6 +1,13 @@
 # Dog-breed-recognition
 
 Projekt obejmował opracowanie i wytrenowanie sieci neuronowej, która rozpoznaje rasy psów na podstawie zdjęć. Wykorzystano zbiór danych Stanford Dogs Dataset, zawierający 120 ras psów i około 20 000 zdjęć.
+## Dokumentacja projektu
+
+`RasyPsowSprawozdanie.pdf` – zawiera szczegółowy raport z realizacji projektu, opisujący cały proces tworzenia modelu, przygotowania danych, trenowania sieci neuronowej oraz jej testowania i analizy wyników.
+
+`Rozpoznawanie ras psów na podstawie obrazów.pdf` – zawiera prezentację projektu, która w skróconej formie przedstawia cel, zastosowane metody oraz najważniejsze rezultaty
+
+---
 
 ## Struktura projektu
 Projekt składa się z trzech głównych plików:
